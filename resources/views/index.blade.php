@@ -1,0 +1,5 @@
+@include('templates/header')
+@include('templates/navbar')
+@include('templates/sidebar')
+@yield('pages/home')
+@include('templates/footer')
